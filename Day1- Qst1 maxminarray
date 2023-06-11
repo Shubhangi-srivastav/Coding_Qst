@@ -1,0 +1,7 @@
+//Maximum and Minimum of an array using minimum number of comparison
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
