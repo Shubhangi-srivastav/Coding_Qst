@@ -8,11 +8,11 @@ public class Main
 	    for(int i=0; i<n;i++){
 	        arr[i]= sc.nextInt();
 	    }
-	    int sum=0;
+	    double sum=0;
 	    for(int i=0; i<n ; i++){
-	        sum+= arr[i];
+	        sum+= (double) arr[i];
 	    }
-	    System.out.print(sum/n);
+	    System.out.print(double(sum/n));
 	}
 }
 /* 5
